@@ -1,5 +1,11 @@
 # Repo Insights
 
+<p align="center">
+  <img src="./docs/dashboard.png" alt="Repository Dashboard" width="800">
+</p>
+
+> **📸 Screenshot placeholder** — See [docs/CAPTURE_INSTRUCTIONS.md](./docs/CAPTURE_INSTRUCTIONS.md) for capture instructions
+
 Visualize commit patterns, language breakdown, and contributor stats for any public GitHub repository.
 
 ## Features
