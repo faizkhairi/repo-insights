@@ -1,10 +1,10 @@
 # Repo Insights
 
-<p align="center">
-  <img src="./docs/dashboard.png" alt="Repository Dashboard" width="800">
-</p>
+![CI](https://github.com/faizkhairi/repo-insights/actions/workflows/ci.yml/badge.svg)
 
-> **📸 Screenshot placeholder** — See [docs/CAPTURE_INSTRUCTIONS.md](./docs/CAPTURE_INSTRUCTIONS.md) for capture instructions
+<p align="center">
+  <img src="./docs/screenshot.png" alt="Repository Dashboard" width="800">
+</p>
 
 Visualize commit patterns, language breakdown, and contributor stats for any public GitHub repository.
 
